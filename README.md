@@ -17,7 +17,7 @@ Front-End Engineer · Free Software Artisan · Technology Tinkerer
 ## Open Source Projects
 
 <table>
-<tr><th>Websites</th><th>Applications</tr>
+<tr><th>Websites</th></tr>
 <tr><td>
 
 | Title | Stars | Technologies |
@@ -25,6 +25,9 @@ Front-End Engineer · Free Software Artisan · Technology Tinkerer
 | [Kanojo](https://github.com/kanojo-db/kanojo) | <img alt="Stars" src="https://img.shields.io/github/stars/kanojo-db/kanojo?style=flat-square&labelColor=black"/> | [![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)](https://laravel.com/) [![Vue.js](https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vuedotjs)](https://vuejs.org/) [![Quasar.js](https://img.shields.io/badge/Quasar-black?style=flat-square&logo=quasar)](https://quasar.dev/) [![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)](https://mariadb.org/) |
 
 </td>
+</tr>
+<tr><th>Applications</th></tr>
+<tr>
 <td>
 
 | Title | Stars | Technologies |
@@ -36,9 +39,6 @@ Front-End Engineer · Free Software Artisan · Technology Tinkerer
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr><th>Abandonned Projects</th></tr>
 <tr><td>
 
