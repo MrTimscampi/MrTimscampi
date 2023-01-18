@@ -1,6 +1,4 @@
-<p style="font-size: 2em; font-weight: 700">
-Front-End Engineer · Free Software Artisan · Technology Tinkerer
-</p>
+# Front-End Engineer · Free Software Artisan · Technology Tinkerer
 
 <picture>
 <source 
